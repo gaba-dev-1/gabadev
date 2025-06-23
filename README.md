@@ -1,87 +1,93 @@
-# Gaba's Portfolio
+<div align="center">
+  
+# 👾 Gabadev
 
-A modern, interactive portfolio built with Next.js, Three.js, and Framer Motion featuring a nuanced purple theme.
+### *Portfolio website & project showcase*
+ 
+[![Next.js](https://img.shields.io/badge/Next.js-2d3748?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org)
+[![TypeScript](https://img.shields.io/badge/TypeScript-4c51bf?style=for-the-badge&logo=typescript&logoColor=white)](https://typescript.org)
+[![TailwindCSS](https://img.shields.io/badge/Tailwind-38a169?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
 
-## Features
+*Personal site featuring projects, blog, & experiments*
 
-- **Interactive 3D Scene**: Subtle Three.js animations with glass-morphism effects
-- **Responsive Design**: Works perfectly on all devices
-- **Dark/Light Mode**: Automatic theme switching
-- **Smooth Scrolling**: Enhanced user experience with Lenis
-- **Contact Form**: Functional email integration
-- **Performance Optimized**: Built for speed and accessibility
+</div>
 
-## Tech Stack
+---
 
-- Next.js 14
-- TypeScript
-- Three.js & React Three Fiber
-- Framer Motion
-- Tailwind CSS
-- Nodemailer
-- React Hook Form + Zod
+<div align="center">
 
-## Getting Started
+## 🌐 What it is
 
-1. **Install dependencies:**
-   ```bash
-   npm install --legacy-peer-deps
-   ```
+Portfolio website built with Next.js. Shows projects, technical writing, and code experiments.
 
-2. **Set up environment variables:**
-   Copy `.env.local` and update with your email credentials
+**Features:** Dark mode • Blog with MDX • Project gallery • Contact form
 
-3. **Run development server:**
-   ```bash
-   npm run dev
-   ```
+</div>
 
-4. **Build for production:**
-   ```bash
-   npm run build
-   npm start
-   ```
+---
 
-## Project Structure
+<div align="center">
 
+## 💻 Technical Stack
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### ⚡ Framework
+Next.js 14  
+App Router  
+Server Components
+
+</td>
+<td align="center" width="33%">
+
+### 🎨 Styling
+TailwindCSS  
+Dark Mode  
+Responsive Design
+
+</td>
+<td align="center" width="33%">
+
+### 📝 Content
+MDX for blog posts  
+Dynamic routing  
+SEO optimized
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🚀 Quick Start
+
+```bash
+# Clone
+git clone https://github.com/gaba-dev-1/gabadev.git
+cd gabadev
+
+# Install
+npm install
+
+# Run
+npm run dev
 ```
-portfolio/
-├── app/                 # Next.js app directory
-├── components/          # React components
-│   ├── layout/         # Header, footer
-│   ├── sections/       # Page sections
-│   ├── three/          # 3D components
-│   ├── ui/             # UI components
-│   └── providers/      # Context providers
-├── lib/                # Utilities and data
-└── public/             # Static assets
-```
 
-## Design Philosophy
+</div>
 
-This portfolio emphasizes **subtle elegance** over flashy effects:
+---
 
-- Nuanced purple color palette
-- Gentle animations and transitions
-- Glass-morphism and backdrop blur effects
-- Minimal but impactful 3D elements
-- Clean typography and spacing
+<div align="center">
 
-## Performance
+## 🌐 Links
 
-- Optimized Three.js rendering
-- Dynamic imports for 3D components
-- Efficient animation loops
-- Responsive image loading
-- Minimal bundle size
+[![Live Demo](https://img.shields.io/badge/Live_Demo-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://gabadev.com)
+[![CC0](https://img.shields.io/badge/License-CC0-64748b?style=for-the-badge)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-## Contact
-
-Built by Sébastien Gimenez (Gaba)
-- Email: contact@gabadev.com
-- GitHub: github.com/gaba-dev-1
-- Discord: https://discord.gg/gY5PsymH
-
-## License
-
-This project is personal portfolio code. Feel free to draw inspiration, but please don't copy it wholesale.
+</div>
