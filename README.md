@@ -1,66 +1,74 @@
-# Gaba's Portfolio
+<div align="center">
+ 
+# 👾 Gabadev
 
-A clean, interactive portfolio built with Next.js, Three.js, and Framer Motion.
+### *My portfolio website*
+ 
+[![Next.js](https://img.shields.io/badge/Next.js-2d3748?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org)
+[![TypeScript](https://img.shields.io/badge/TypeScript-4c51bf?style=for-the-badge&logo=typescript&logoColor=white)](https://typescript.org)
+[![TailwindCSS](https://img.shields.io/badge/Tailwind-38a169?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
 
-## Features
+*Featuring a few projects, current interests & development services*
 
-- **Interactive 3D Scene**: Clean Three.js animations with glass effects
-- **Responsive Design**: Works on all devices
-- **Dark/Light Mode**: Theme switching
-- **Smooth Scrolling**: Enhanced UX with Lenis
-- **Contact Form**: Working email integration
-- **Services Section**: Package offerings
-- **Performance Optimized**: Built for speed
+---
 
-## Tech Stack
+## 🌐 What it is
 
-- Next.js 14
-- TypeScript
-- Three.js & React Three Fiber
-- Framer Motion
-- Tailwind CSS
-- Nodemailer
-- React Hook Form + Zod
+Portfolio website built with Next.js. Shows projects, work & contact details, and code experiments.
 
-## Getting Started
+**Features:** Dark mode • Blog with MDX • Project gallery • Contact form
 
-1. **Install:**
-   ```bash
-   npm install --legacy-peer-deps
-   ```
+---
 
-2. **Set up environment:**
-   Update `.env.local` with your email credentials
+## 💻 Technical Stack
 
-3. **Run:**
-   ```bash
-   npm run dev
-   ```
+<table>
+<tr>
+<td align="center" width="33%">
 
-4. **Build:**
-   ```bash
-   npm run build
-   npm start
-   ```
+### ⚡ Framework
+Next.js 14  
+App Router  
+Server Components
 
-## Project Structure
+</td>
+<td align="center" width="33%">
 
+### 🎨 Styling
+TailwindCSS  
+Dark Mode  
+Responsive Design
+
+</td>
+<td align="center" width="33%">
+
+### 📝 Content
+MDX for blog posts  
+Dynamic routing  
+SEO optimized
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Quick Start
+
+```bash
+# Clone
+git clone https://github.com/gaba-dev-1/gabadev.git
+cd gabadev
+
+# Install
+npm install
+
+# Run
+npm run dev
 ```
-portfolio/
-├── app/                 # Next.js app directory
-├── components/          # React components
-│   ├── layout/         # Header, footer
-│   ├── sections/       # Page sections
-│   ├── three/          # 3D components
-│   ├── ui/             # UI components
-│   └── providers/      # Context providers
-├── lib/                # Utilities and data
-└── public/             # Static assets
-```
 
-## Contact
+---
 
-Built by Sébastien Gimenez (Gaba)
-- Email: contact@gabadev.com
-- GitHub: github.com/gaba-dev-1
-- Discord: https://discord.gg/gY5PsymH
+[![Live Demo](https://img.shields.io/badge/Live_Demo-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://gabadev.com)
+
+</div>
